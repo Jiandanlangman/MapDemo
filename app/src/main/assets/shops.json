@@ -1,0 +1,226 @@
+[
+  {
+    "name": "SONY",
+    "category": "时尚购物",
+    "x": 1967,
+    "y": 2120,
+    "isVIP": 1
+  },
+  {
+    "name": "小辉哥",
+    "category": "休闲美食",
+    "x": 777,
+    "y": 1512,
+    "isVIP": 1
+  },
+  {
+    "name": "玩偶遇到爱",
+    "category": "时尚购物",
+    "x": 3769,
+    "y": 908,
+    "isVIP": 1
+  },
+  {
+    "name": "Hotpark热啊",
+    "category": "休闲美食",
+    "x": 3476,
+    "y": 626,
+    "isVIP": 1
+  },
+  {
+    "name": "Newlook纽洛克",
+    "category": "时尚购物",
+    "x": 3654,
+    "y": 1216,
+    "isVIP": 0
+  },
+  {
+    "name": "阿吉豆",
+    "category": "时尚购物",
+    "x": 3372,
+    "y": 1472,
+    "isVIP": 0
+  },
+  {
+    "name": "YVES ROCHER伊夫·黎雪",
+    "category": "时尚购物",
+    "x": 3217,
+    "y": 1609,
+    "isVIP": 1
+  },
+  {
+    "name": "VIENNA CLASSIC维也纳经典",
+    "category": "休闲美食",
+    "x": 3054,
+    "y": 1779,
+    "isVIP": 1
+  },
+  {
+    "name": "卡西欧",
+    "category": "时尚购物",
+    "x": 2831,
+    "y": 1784,
+    "isVIP": 1
+  },
+  {
+    "name": "伊本造型",
+    "category": "时尚购物",
+    "x": 2445,
+    "y": 1675,
+    "isVIP": 0
+  },
+  {
+    "name": "BOSE博士",
+    "category": "时尚购物",
+    "x": 2229,
+    "y": 1615,
+    "isVIP": 0
+  },
+  {
+    "name": "KEF",
+    "category": "时尚购物",
+    "x": 2051,
+    "y": 1576,
+    "isVIP": 0
+  },
+  {
+    "name": "百世达",
+    "category": "休闲美食",
+    "x": 1704,
+    "y": 1542,
+    "isVIP": 0
+  },
+  {
+    "name": "LIZARRAN利再燃",
+    "category": "休闲美食",
+    "x": 762,
+    "y": 1972,
+    "isVIP": 0
+  },
+  {
+    "name": "ANLY’S安丽斯",
+    "category": "休闲美食",
+    "x": 1329,
+    "y": 2102,
+    "isVIP": 1
+  },
+  {
+    "name": "GNC",
+    "category": "时尚购物",
+    "x": 1552,
+    "y": 2102,
+    "isVIP": 1
+  },
+  {
+    "name": "猫山王",
+    "category": "休闲美食",
+    "x": 1722,
+    "y": 2113,
+    "isVIP": 0
+  },
+  {
+    "name": "NICI礼祺",
+    "category": "时尚购物",
+    "x": 2312,
+    "y": 2183,
+    "isVIP": 0
+  },
+  {
+    "name": "RE 调香室",
+    "category": "时尚购物",
+    "x": 2672,
+    "y": 2152,
+    "isVIP": 1
+  },
+  {
+    "name": "Lacésar乐凯撒",
+    "category": "休闲美食",
+    "x": 3298,
+    "y": 2206,
+    "isVIP": 0
+  },
+  {
+    "name": "木桑水产",
+    "category": "休闲美食",
+    "x": 3838,
+    "y": 1999,
+    "isVIP": 0
+  },
+  {
+    "name": "ZENS哲品",
+    "category": "时尚购物",
+    "x": 4292,
+    "y": 1820,
+    "isVIP": 0
+  },
+  {
+    "name": "Happy Tee",
+    "category": "时尚购物",
+    "x": 4374,
+    "y": 1361,
+    "isVIP": 1
+  },
+  {
+    "name": "ABS爱彼此",
+    "category": "时尚购物",
+    "x": 4759,
+    "y": 1160,
+    "isVIP": 1
+  },
+  {
+    "name": "Sonos索诺斯",
+    "category": "时尚购物",
+    "x": 4585,
+    "y": 909,
+    "isVIP": 0
+  },
+  {
+    "name": "桂满陇·䖝二酒肆",
+    "category": "休闲美食",
+    "x": 4658,
+    "y": 709,
+    "isVIP": 0
+  },
+  {
+    "name": "舒适堡",
+    "category": "时尚购物",
+    "x": 4967,
+    "y": 2148,
+    "isVIP": 1
+  },
+  {
+    "name": "悦诗风吟",
+    "category": "时尚购物",
+    "x": 3672,
+    "y": 1628,
+    "isVIP": 1
+  },
+  {
+    "name": "度小月",
+    "category": "文化娱乐",
+    "x": 3424,
+    "y": 1792,
+    "isVIP": 1
+  },
+  {
+    "name": "H&M",
+    "category": "时尚购物",
+    "x": 1752,
+    "y": 1808,
+    "isVIP": 0
+  },
+  {
+    "name": "慕法",
+    "category": "休闲美食",
+    "x": 2168,
+    "y": 1870,
+    "isVIP": 0
+  },
+  {
+    "name": "百花街",
+    "category": "时尚购物",
+    "x": 2426,
+    "y": 1930,
+    "isVIP": 0
+  }
+]

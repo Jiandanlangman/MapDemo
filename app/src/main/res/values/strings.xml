@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="extract_res">正在解压资源，请稍后&#8230;</string>
+</resources>
